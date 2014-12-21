@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## There are key functions here.
+## There are 2 functions here.
 ## function makeCacheMatrix creates a special "matrix" object which caches its inverse
 ## function cacheSolve returns the inverse of the matrix, if in cache it uses the cached value
 ## if not calculates the inverse and stores it in cache
